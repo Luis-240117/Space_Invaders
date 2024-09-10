@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\POO_SpaceInvaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:POO_SpaceInvaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\asteroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:asteroid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\asteroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:asteroid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5DD0390-4EEC-43D9-B5A5-15416693F725}|POO_SpaceInvaders.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\bullet.cpp",
+              "RelativeDocumentMoniker": "bullet.cpp",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\bullet.cpp",
+              "RelativeToolTip": "bullet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T04:55:16.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "asteroid.cpp",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\asteroid.cpp",
+              "RelativeDocumentMoniker": "asteroid.cpp",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\asteroid.cpp",
+              "RelativeToolTip": "asteroid.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T04:55:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "utility.cpp",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\utility.cpp",
+              "RelativeDocumentMoniker": "utility.cpp",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\utility.cpp",
+              "RelativeToolTip": "utility.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T04:54:42.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ship.cpp",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\ship.cpp",
+              "RelativeDocumentMoniker": "ship.cpp",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\ship.cpp",
+              "RelativeToolTip": "ship.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAFAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T04:37:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "asteroid.h",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\asteroid.h",
+              "RelativeDocumentMoniker": "asteroid.h",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\asteroid.h",
+              "RelativeToolTip": "asteroid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T04:30:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "utility.h",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\utility.h",
+              "RelativeDocumentMoniker": "utility.h",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\utility.h",
+              "RelativeToolTip": "utility.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T04:30:11.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bullet.h",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\bullet.h",
+              "RelativeDocumentMoniker": "bullet.h",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\bullet.h",
+              "RelativeToolTip": "bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T04:30:02.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ship.h",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\ship.h",
+              "RelativeDocumentMoniker": "ship.h",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\ship.h",
+              "RelativeToolTip": "ship.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T04:29:51.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POO_SpaceInvaders.cpp",
+              "DocumentMoniker": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\POO_SpaceInvaders.cpp",
+              "RelativeDocumentMoniker": "POO_SpaceInvaders.cpp",
+              "ToolTip": "C:\\Users\\night\\OneDrive\\Documentos\\POO\\POO_SpaceInvaders\\POO_SpaceInvaders.cpp",
+              "RelativeToolTip": "POO_SpaceInvaders.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T04:29:38.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
